@@ -1,0 +1,15 @@
+:root {
+    padding: 1rem;
+    font-family: Archivo, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: -2.5rem;
+}
+
+#carte {
+    align-items: center;
+}

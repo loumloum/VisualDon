@@ -1,0 +1,4 @@
+Le principe du scraping est de récupérer des data sur des serveurs distants (ou autre) afin d'alimenter sa propre application.
+La procédure est assez 'simple'; dans le sens où c'est une méthode assez structurée. Il faut d'abord choisir le jeu de data que nous souhaitons récupérer sur un site web. Ensuite, il faut copier l'URL des data au format json via la console pour en extraire les données qui nous intéressent.
+Suivant le type de data que nous recevons, nous allons vouloir les trier pour n'obtenir que les infos qui nous intéressent. Là, je ne peux pas décrire avec précision ce qu'il faut faire, puisque cela dépend de nos données. On va souvent vouloir convertir des dates dans un format donné, ou récupérer seulement des noms de produits ainsi que leur ID, etc.
+Une fois que tout est trié, il n'y a plus qu'à lancer le script 'nope prepare' afin d'obtenir un fichier avec les données json que nous voulons.

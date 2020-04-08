@@ -1,0 +1,227 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "node/417706015",
+        "properties": {
+            "timestamp": "2019-01-07T15:19:51Z",
+            "version": "4",
+            "changeset": "66088331",
+            "user": "wheelmap_visitor",
+            "uid": "290680",
+            "amenity": "pub",
+            "name": "Le XIIIe siecle",
+            "wheelchair": "no",
+            "id": "node/417706015"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6352989, 46.5234148]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/826027336",
+        "properties": {
+            "timestamp": "2020-02-27T23:10:23Z",
+            "version": "7",
+            "changeset": "81566425",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:housenumber": "2",
+            "addr:postcode": "1005",
+            "addr:street": "Ruelle du Lapin Vert",
+            "amenity": "pub",
+            "contact:facebook": "https://www.facebook.com/Lapin-Vert-155515527815007/",
+            "email": "info@lapinvert.ch",
+            "name": "Le Lapin Vert",
+            "opening_hours": "Tu, We 20:00-01:00; Th 20:00-02:00; Fr, Sa 20:00-03:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+41 21 312 13 17",
+            "smoking": "isolated",
+            "start_date": "1963",
+            "website": "https://www.lapinvert.ch/",
+            "id": "node/826027336"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6359008, 46.5235889]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/826029426",
+        "properties": {
+            "timestamp": "2020-03-01T22:52:41Z",
+            "version": "6",
+            "changeset": "81655930",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:housenumber": "6",
+            "addr:street": "Rue Pierre Viret",
+            "alt_name": "La Girafe",
+            "amenity": "pub",
+            "contact:facebook": "https://www.facebook.com/BarGiraf",
+            "name": "Giraf Bar",
+            "opening_hours": "Tu-Th 18:30-01:00; Fr 18:30-02:00; Sa 20:00-02:00",
+            "phone": "+41 21 323 53 90",
+            "website": "https://www.restaurant-vieux-lausanne-bar-giraf.ch/bar-giraf",
+            "wheelchair": "limited",
+            "id": "node/826029426"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6343698, 46.5225009]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/1259128419",
+        "properties": {
+            "timestamp": "2019-12-19T16:49:03Z",
+            "version": "7",
+            "changeset": "78648054",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:housenumber": "5",
+            "addr:postcode": "1005",
+            "addr:street": "Place de la Riponne",
+            "amenity": "pub",
+            "contact:facebook": "https://facebook.com/Bruxelles.Cafe.Lausanne",
+            "email": "info@bruxellescafe.ch",
+            "internet_access": "wlan",
+            "name": "Bruxelles Café",
+            "opening_hours": "Mo 16:00-00:00; Tu-Th 11:30-01:00; Fr, Sa 11:30-02:00; Su 11:00-00:00",
+            "phone": "+41 21 311 33 01",
+            "toilets:wheelchair": "no",
+            "website": "https://www.bruxellescafe.ch/",
+            "wheelchair": "limited",
+            "id": "node/1259128419"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6315365, 46.523349]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/1758921857",
+        "properties": {
+            "timestamp": "2020-03-01T12:46:46Z",
+            "version": "8",
+            "changeset": "81643036",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:country": "CH",
+            "addr:housenumber": "18",
+            "addr:postcode": "1003",
+            "addr:street": "Rue de la Madeleine",
+            "amenity": "pub",
+            "contact:facebook": "https://www.facebook.com/TheGreatEscapeLausanne/",
+            "contact:instagram": "https://www.instagram.com/the.great.escape.lausanne/",
+            "cuisine": "burger;regional",
+            "diet:vegetarian": "yes",
+            "email": "bar.contact@the-great.ch",
+            "name": "The Great Escape",
+            "opening_hours": "Mo-Th 11:30-01:00; Fr 11:30-02:00; Sa 10:00-02:00; Su 12:00-01:00",
+            "opening_hours:kitchen": "Mo 13:00-22:00; Tu-Sa 12:00-23:00; Su 13:00-22:00",
+            "phone": "+41 21 312 31 94",
+            "start_date": "2003",
+            "website": "https://www.the-great.ch",
+            "wheelchair": "no",
+            "id": "node/1758921857"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6331436, 46.5227776]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/3668569676",
+        "properties": {
+            "timestamp": "2020-02-22T10:39:33Z",
+            "version": "7",
+            "changeset": "81342786",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:housenumber": "1",
+            "addr:postcode": "1003",
+            "addr:street": "Place Pépinet",
+            "amenity": "pub",
+            "contact:facebook": "https://www.facebook.com/mccarthyslausanne/",
+            "contact:instagram": "https://www.instagram.com/mccarthys_irish_pub_lausanne/",
+            "contact:twitter": "https://twitter.com/pub_mccarthys",
+            "email": "info@mccarthysirishpub.ch",
+            "food": "yes",
+            "name": "Mc Carthy's",
+            "old_name": "Crazy Canucks",
+            "opening_hours": "Mo-We 11:00-00:00; Th 11:00-01:00; Fr 11:00-02:00; Sa 11:30-02:00; Su 13:00-00:00",
+            "outdoor_seating": "yes",
+            "phone": "+41 21 312 93 33",
+            "smoking": "outside",
+            "website": "mccarthysirishpub.ch/",
+            "wheelchair": "yes",
+            "id": "node/3668569676"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6323014, 46.5213697]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/5524729046",
+        "properties": {
+            "timestamp": "2019-12-12T16:27:34Z",
+            "version": "3",
+            "changeset": "78328790",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:housenumber": "4",
+            "addr:postcode": "1005",
+            "addr:street": "Rue Cité-Devant",
+            "amenity": "pub",
+            "cuisine": "burger",
+            "diet:vegetarian": "yes",
+            "email": "info@ac-beerhouse.ch",
+            "name": "De l'Autre Côté",
+            "opening_hours": "Tu-We 11:30-00:00; Th 11:30-01:00; Fr-Su 11:30-02:00",
+            "phone": "+41 21 311 05 56",
+            "website": "https://www.ac-beerhouse.ch",
+            "id": "node/5524729046"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6352332, 46.523219]
+        }
+    }, {
+        "type": "Feature",
+        "id": "node/7235000083",
+        "properties": {
+            "timestamp": "2020-02-22T10:49:28Z",
+            "version": "1",
+            "changeset": "81342963",
+            "user": "Amadeous",
+            "uid": "4759025",
+            "addr:city": "Lausanne",
+            "addr:housenumber": "1",
+            "addr:postcode": "1003",
+            "addr:street": "Place Pepinet",
+            "amenity": "pub",
+            "contact:facebook": "https://www.facebook.com/bottlebrotherslausanne/",
+            "email": "infolausanne@bottlebrothers.ch",
+            "name": "Café des philosophes",
+            "opening_hours": "Tu, We 12:00-23:45; Th 12:00-01:00; Fr, Sa 12:00-02:00",
+            "opening_hours:kitchen": "Tu-Sa 12:00-23:00",
+            "phone": "+41 21 311 48 68",
+            "website": "www.bottlebrothers.ch",
+            "id": "node/7235000083"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.6325327, 46.5212754]
+        }
+    }]
+}

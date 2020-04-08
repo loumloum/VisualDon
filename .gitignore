@@ -1,0 +1,16 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+node_modules
+.cache
+**/dist
+
+**/heig-datavis-2020
+
+node_modules
+dist
+.cache
+
+**/PrivateData

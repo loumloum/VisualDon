@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        @keyframes blink {
+            from {
+                stroke-width: 0
+            }
+
+            to {
+                stroke-width: 20
+            }
+        }
+
+        polygon {
+            animation-duration: 3s;
+            animation-name: blink;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            stroke: #a82af3;
+            fill: #00FCB9;
+        }
+    </style>
+</head>
+
+<body>
+    <svg viewBox="0 0 600 500">
+        <rect id="rect" x="0" y="50" width="300" height="200" fill="#0000f3" />
+        <circle id="c" cx="315" cy="50" r="150" fill="#ff0000" />
+        <polygon id="p" points="700,0 300,75 0,200 300,400 300,334" fill="#00FCB9" />
+        <line x1="300" y1="0" x2="200" y2="100" stroke="#a82af3" />
+        <path d="M 20 20 C 40 50 160 50 180 20" fill="#a82af3" stroke="#a82af3" />
+        <text x="50" y="100" font-size="50" font-family="Archivo" font-style="bold" fill="white">J U L A U' 2 0 2 0</text>
+    </svg>
+    </svg>
+    <script>
+        const circle = document.getElementById('c')
+        let isRed = true
+        circle.addEventListener('click', () => {
+            isRed = !isRed
+            circle.setAttribute('fill', isRed ? 'red' : '#a82af3')
+        })
+
+        const rectangle = document.getElementById('rect')
+        let isBlue = true
+        rectangle.addEventListener('mouseover', () => {
+            isBlue = !isBlue
+            rectangle.setAttribute('fill', isBlue ? 'blue' : 'red')
+        })
+
+    </script>
+</body>
+
+</html>

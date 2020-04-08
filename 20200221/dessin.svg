@@ -1,0 +1,8 @@
+<svg width="600" height="500" xmlns="http://www.w3.org/2000/svg">
+   <rect x="0" y="50" width="300" height="200" fill="#0000f3" />
+   <circle cx="315" cy="50" r="150" fill="#ff0000" />
+   <line x1="300" y1="0" x2="200" y2="100" stroke="#a82af3"  />
+   <path d="M 20 20 C 40 50 160 50 180 20" fill="#a82af3" stroke="#a82af3" />
+   <polygon points="700,0 300,100 0,200 300,400 300,334" fill="#00FCB9" />
+   <text x="50" y="100" font-size="50" font-family="Archivo" fill="white">J U L A U'  2 0 2 0</text>
+ </svg>

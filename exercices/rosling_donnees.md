@@ -1,0 +1,3 @@
+1. Pour récupérer les données sur un site web, on utilise un script de CURL qui permet de les télécharger directement au format excel. Ensuite, on doit créer un script qui nous permet de les convertir au format .csv afin d'avoir les feuilles qui nous intéressent. Nous allons ensuite fusionner tous ces documents ensemble afin de les convertir en une fois en un jeu de données au format json qui sera alors exploitable pour faire des graph.
+2. Cela permet une automatisation mais également un meilleur contrôle sur nos manipulations. Cela permet également de garder une trace de nos agissements.
+3. Grâce à un identifiant commun à toutes nos données (ici, geo). Nous avons fait un scripte qui permet de les joindre grâce à cet identifiant.

@@ -1,0 +1,3 @@
+1. c'est le fait de projeter une image sur une autre. Dans le contexte de la cartographie, on parle de projeter une sphère (la terre) sur une surface plane (un plan ou autre support non-sphérique). On doit le faire car, jusqu'à maintenant, nous n'avons pas trouvé le moyen de représenter des données géographiques de manière "réelle" et compréhensible sur une surface sphérique, car nos supports de consultations se trouvent tous être plats et la planète terre ne l'est à priori pas – bien que certains illuminés s'obstinent à penser le contraire.
+2. Dans le contexte des données cartographiques, une géométrie est un ensemble de points. liés entre eux ou non, définissant des zones géographiques (lieux, batiments, régions, etc.).
+3. GeoJSON; OSM; shapefile.
