@@ -13,7 +13,4 @@ node_modules
 dist
 .cache
 
-**/privatedata
-
-**/maquette
-*projet/
+projet
