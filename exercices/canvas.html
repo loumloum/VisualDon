@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Exercice canvas</title>
+</head>
+
+<body>
+    <canvas id="dessin" width="1000" height="500"></canvas>
+    <script>
+        const canvas = document.getElementById('dessin')
+        const context = canvas.getContext('2d')
+
+        // DESSINEZ ICI
+
+        // définir la taille du canvas
+        const WIDTH = 1000
+        const HEIGHT = 500
+        canvas.setAttribute('width', WIDTH)
+        canvas.setAttribute('height', HEIGHT)
+
+        // un rectangle orange
+        context.fillStyle = '#ff8d42'
+        context.fillRect(20, 23, WIDTH / 3, HEIGHT / 2, WIDTH / 5, HEIGHT / 6)
+
+        // un rectangle rose
+        context.fillStyle = '#ff3266'
+        context.fillRect(52, 42, WIDTH / 3, HEIGHT / 4)
+
+        // un rectangle blanc
+        context.fillStyle = 'white'
+        context.fillRect(42, 32, WIDTH / 3, HEIGHT / 4)
+
+    </script>
+</body>
+
+</html>
